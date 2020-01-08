@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o _site/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkbaskin/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkbaskin/blog/issues"
+  },
+  "homepage": "https://github.com/kirkbaskin/blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "autoprefixer": "^9.7.3",
+    "postcss-cli": "^7.0.0",
+    "tailwindcss": "^1.1.4"
+  }
+}
