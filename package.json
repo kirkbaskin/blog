@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/kirkbaskin/blog#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^1.0.2",
     "autoprefixer": "^9.7.3",
     "postcss-cli": "^7.0.0",
     "tailwindcss": "^1.1.4"
